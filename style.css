@@ -1,0 +1,95 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #FFD1DF;
+    color: #333;
+}
+
+/* Main Title */
+h1 {
+    color: #ff6b6b;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #ff6b6b;
+    padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Section Headers */
+h3 {
+    color: #ff6b6b;
+    font-size: 1.5em;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/* Paragraphs */
+p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    max-width: 800px;
+    text-align: justify;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    border: 2px solid #ff6b6b;
+}
+
+/* Lists */
+ul {
+    background-color: #fff;
+    padding: 20px 40px;
+    border-left: 4px solid #ff6b6b;
+    border-radius: 5px;
+    max-width: 800px;
+}
+
+li {
+    margin-bottom: 12px;
+    font-size: 1.05em;
+}
+
+/* Image placeholder */
+p:last-of-type {
+    text-align: center;
+    font-style: italic;
+    color: #999;
+    margin-top: 30px;
+}
+
+/* Main image */
+.main-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 3px solid #ff6b6b;
+}
+
+.bio-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 3px solid #ff6b6b;
+}
+
+.details-image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 3px solid #ff6b6b;
+}
+
+.white-text {
+    color: #ffffff;
+}
+}
